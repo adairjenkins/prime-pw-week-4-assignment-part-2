@@ -1,0 +1,26 @@
+body {background-color: #000000;}
+
+header {
+  background-color: #062F4F;
+  color: #9F9DA0;
+}
+
+.info {
+  background-color: #813772;
+  color: #9F9DA0;
+  text-align: center;
+
+}
+
+h3 {
+  background-color: #B82601;
+  text-align: center;
+  color: #9F9DA0;
+}
+
+.center {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
